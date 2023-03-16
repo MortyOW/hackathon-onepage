@@ -107,9 +107,6 @@ section{
   color: var(--black);
 }
 
-.header .logo i{
-  color: var(--main);
-}
 
 .header .navbar a{
   font-size: 1.7rem;
